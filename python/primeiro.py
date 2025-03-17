@@ -43,4 +43,3 @@ num3 = 8.9
 print(f"{num1:5.2f}" .replace('.',',')) #3,14
 print(f'{num2:5.2f}' .replace('.',',')) #5,876
 print(f'{num3:5.2f}' .replace('.',',')) #8,90
- 
