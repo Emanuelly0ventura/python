@@ -54,7 +54,7 @@ elif n2 > n1 and n2 > n3:
     print(f'n 2 é o numero maior')
 
 else:
-    print(f'ué paizão ta tudo igual')
+    print(f'todos são iguais')
 
 #5
 
