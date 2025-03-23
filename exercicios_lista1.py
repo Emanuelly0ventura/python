@@ -22,5 +22,19 @@ print(f"d: {x or y or x}")
 print(f"e: {not(x or not y)}")
 print(f"f: {not(not x and not y)}")
 
+#lista 1
 
+a = 5
+b = 9
+x = not True
+y = False and True
+m = "casa"
+n = "mesa"
+
+print(x and y == x or y)
+print(a * b<= b - a)
+print(not(a == b or not b != a))
+print(not(m != n and b > a))
+print(b + a <= a * b and y)
+print(x and not y or a // b != a % b)
 
