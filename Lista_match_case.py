@@ -10,7 +10,7 @@ match semi:
     case "verde":
         print(f'siga!')
     case _:
-        print(f'ta louco paaizão????')
+        print(f'Opção incorreta')
 
 #7
 print(f"vamos fazer uma operação matematica basica!Digte os numeros:")
@@ -28,7 +28,7 @@ match operacao:
     case "/":
         print(f'{n1} / {n2} = {n1 / n2}')    
     case _:
-        print(f'paizão é basico')
+        print(f'não foi possivel efetuar a operação')
 
 #8
 animal = input(f"Escolah um animal: ")
@@ -41,7 +41,7 @@ match animal:
     case 'aguia'|"papagaio":
         print(f'Ave')
     case _:
-        print(f'Deus sabe eu não')
+        print(f'animal não encontrado')
 
 #9
 personagem = input('escolha um numero entre 1 a 3: ')
