@@ -11,7 +11,7 @@ print (f"eu tenho {idade}")
 print("Hlleo World!")
 nome = "manu"
 idade = "18"
-print("Maue nome é {} e tenho {} anos." .format (nome,idade))
+print("Meu nome é {} e tenho {} anos." .format (nome,idade))
 
 print(f".{nome:<10}.") #Alinhado à esquerda
 print(f".{nome:^10}.") #Centralizado
